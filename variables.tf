@@ -1,0 +1,10 @@
+variable "name" {}
+variable "cloud" {}
+variable "region" {}
+variable "cidr" {}
+variable "account" {}
+variable "fw_version" {}
+variable "sp_name" {}
+variable "sp_cidr" {}
+variable "sp_region" {}
+variable "tags" {}
